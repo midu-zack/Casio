@@ -1,0 +1,266 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+  
+.navbar{
+    
+    margin: 6px 87%;
+    display: flex;
+    list-style: none;
+    gap: 39px;
+    font-family: din-2014, "Noto Sans JP", "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", Meiryo, メイリオ, sans-serif;
+ 
+    line-height: 16.5px;
+      
+    font-size: 11px;
+}
+ 
+.serch{
+    padding-left: 85px;
+
+
+}
+ 
+.h{
+    width: 150px;
+     align-items: end;
+
+}
+.fa-magnifying-glass{
+    padding-left: 119px;
+     
+
+
+}
+.fa-heart{
+    padding-left: 15px;
+}
+.flex-method{
+    margin-bottom: 10px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    list-style: none;
+    gap: 45px;
+    margin-left: 3%;
+    margin-top: 10px;
+    font-size: 14px;
+    line-height: 18px;
+    font-family: din-2014, "Noto Sans JP", "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", Meiryo, メイリオ, sans-serif;
+}
+.fa-solid{
+    margin-left: 12px;
+}
+#logo{
+    margin-right:222px;
+  
+}
+#icon{
+    padding-left: 19%;
+    
+}
+#icon{
+    padding-left: 20%;
+    padding-bottom: 1%;
+}
+.watch{
+    box-sizing: border-box;
+   
+    
+}
+.ad{
+    margin-top: -5px;
+}
+ .method{
+   
+
+    display: flex;
+    max-width: 1400px;
+     margin: auto;
+     
+    
+ }
+ .arrvls{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:25px ;
+    line-height: 51.2px;
+    padding-left: 80px;
+    margin-top: 50px;
+ }
+ .purchasing{
+    display: flex;
+     justify-content: center;
+     padding-top: 50px;
+     gap: 10px;
+    
+
+
+
+
+ }
+ .pur{
+    
+    background-color: #f7f8fa;
+ }
+ .style h3{
+    margin-left: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 25px;
+    padding-top: 5px;
+
+ }
+ .style h2{
+    margin-left: 13px;
+    font-size: 18px;
+    line-height: 21.6px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 5px;
+
+ }
+ .style h6 {
+    padding-top: 15px;
+
+    margin-left: 13px;
+    line-height: 13.8px;
+    font-size: 9px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ .style h4{
+    line-height: 13.8px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+ }
+ .ne{
+    display: flex;
+   gap: 220px;
+   position: absolute;
+   padding-top: 15px;
+   margin-left: 12px;
+   font-weight: 170;
+}
+
+ .btn1{
+    border: none;
+    background-color: white;
+  
+    font-weight: 200;
+    font-size: 11px;
+ }
+ .learn{
+     padding-top: 8%;
+     margin-left: 41%;
+     
+ }
+  
+ .more{
+    width: 32%;
+    height: 38px;
+    background-color: black;
+    color: white;
+    
+}
+.up{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    gap: 10px;
+}
+.pick h6{
+    font-size: 11px;
+    line-height: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    padding-top: 5px;
+}
+.pick a{
+    font-size: 10px;
+    line-height: 16px;
+    letter-spacing: 1.8px;
+    text-align: start;
+}
+.adjst{
+    background-color: #f7f8fa;
+    width:250px;
+    height: 300px;
+    
+}
+#btm{
+    padding-bottom: 8%;
+}
+.end{
+    padding-top: 1%  ;
+    background-color: #f7f8fa;
+}
+.cls{
+    margin: auto;
+    max-width: 75%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.cls h4{
+   padding-top: 30px;
+
+   font-size: 14px;
+   line-height: 21px;
+   font-family: Arial, Helvetica, sans-serif;
+   color: #000000;  
+   font-weight: 500;
+}
+
+ 
+ 
+.icon{
+    display: flex;
+    gap: 3%;
+    margin-top: 25px;
+    padding-left: 80px;
+    font-weight: 300;
+    
+    font-family:Arial, Helvetica, sans-serif; 
+}
+.icon li{
+   
+    list-style: none;
+
+}
+#txt{
+    font-size: 9px;
+}
+.p{
+    padding-top: 1%;
+    padding-left: 80px;
+    padding-bottom: 12px;
+}
+.close{
+    padding-left: 30px;
+    padding-top: 20px;
+    background-color: #ffffff;
+}
+.close h5{
+    margin-bottom: 12px;
+    margin-top: 10px;
+    font-family:Arial, Helvetica, sans-serif; 
+}
+.fa-arrow-up{
+
+     
+
+    margin-bottom: 7px;
+    margin-right: 15px;
+    
+    width: 41px;
+    height: 42px;
+    color: white;
+    text-align: center;
+    padding-top: 12px;
+    float: right;
+    background: #000000;
+    font-size: x-large;
+
+    
+ }
+     
